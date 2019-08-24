@@ -1,3 +1,5 @@
+package dfs;
+
 /*
  1. Missed up with the horizontal index and veritical index;
  2. difference between "O" and '0'  string and char
