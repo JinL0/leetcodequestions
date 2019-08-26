@@ -1,9 +1,14 @@
 package dfs;
-
+/*
+ 1. create unit test
+ 2. argument passed in recursion, debug
+ */
 import java.util.List;
 import java.util.ArrayList;
 public class nestedListWeightSum
 {
+
+
     public static class NestedInteger {
         private List<NestedInteger> list;
         private Integer integer;
